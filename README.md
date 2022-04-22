@@ -1,0 +1,1 @@
+# SynapseNetwork.Lottery
