@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SynapseLottery": {
+      "commandName": "Project",
+      "commandLineArgs": "30 12345546 \"ExampleUsers.txt\" \"UsersOutput.txt\""
+    }
+  }
+}
